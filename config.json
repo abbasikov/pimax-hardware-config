@@ -5,7 +5,7 @@
     "sensors":{
       "temperature":{
         "pushDataToServer":true,
-        "pushIntervalInSeconds":2,
+        "pushIntervalInSeconds":3,
         "serverUri":""
       },
       "humidity":{
