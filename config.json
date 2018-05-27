@@ -4,22 +4,22 @@
     "serviceCallTimeoutInSecs":4,
     "sensors":{
       "temperature":{
-        "pushDataToServer":true,
+        "pushDataToServer":1,
         "pushIntervalInSeconds":3,
         "uri":""
       },
       "humidity":{
-        "pushDataToServer":true,
+        "pushDataToServer":1,
         "pushIntervalInSeconds":2,
         "uri":""
       },
       "smoke":{
-        "pushDataToServer":true,
+        "pushDataToServer":1,
         "pushIntervalInSeconds":2,
         "uri":""
       },
       "airPressure":{
-        "pushDataToServer":true,
+        "pushDataToServer":1,
         "pushIntervalInSeconds":2,
         "uri":""
       }
