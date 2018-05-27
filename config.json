@@ -6,22 +6,22 @@
       "temperature":{
         "pushDataToServer":1,
         "pushIntervalInSeconds":3,
-        "uri":"/sensor/temperature"
+        "uri":"/sensors/temperature"
       },
       "humidity":{
         "pushDataToServer":1,
         "pushIntervalInSeconds":2,
-        "uri":"/sensor/humidity"
+        "uri":"/sensors/humidity"
       },
       "smoke":{
         "pushDataToServer":1,
         "pushIntervalInSeconds":2,
-        "uri":"/sensor/smoke"
+        "uri":"/sensors/smoke"
       },
       "airPressure":{
         "pushDataToServer":1,
         "pushIntervalInSeconds":2,
-        "uri":"/sensor/airpressure"
+        "uri":"/sensors/airpressure"
       }
     }
   }
