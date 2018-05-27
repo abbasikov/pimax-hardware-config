@@ -1,7 +1,7 @@
 {
   "config":{
     "serverHostName":"https://demo5100262.mockable.io",
-    "serviceCallTimeoutInSecs":3,
+    "serviceCallTimeoutInSecs":4,
     "sensors":{
       "temperature":{
         "pushDataToServer":true,
