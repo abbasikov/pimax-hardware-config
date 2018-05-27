@@ -1,0 +1,28 @@
+{
+  "config":{
+    "serverHostName":"https://demo5100262.mockable.io",
+    "serviceCallTimeoutInSecs":3,
+    "sensors":{
+      "temperature":{
+        "pushDataToServer":true,
+        "pushIntervalInSeconds":2,
+        "serverUri":""
+      },
+      "humidity":{
+        "pushDataToServer":true,
+        "pushIntervalInSeconds":2,
+        "serverUri":""
+      },
+      "smoke":{
+        "pushDataToServer":true,
+        "pushIntervalInSeconds":2,
+        "serverUri":""
+      },
+      "airPressure":{
+        "pushDataToServer":true,
+        "pushIntervalInSeconds":2,
+        "serverUri":""
+      }
+    }
+  }
+}
