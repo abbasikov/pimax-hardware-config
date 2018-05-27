@@ -6,7 +6,7 @@
       "temperature":{
         "pushDataToServer":1,
         "pushIntervalInSeconds":3,
-        "uri":"/sensors/umair"
+        "uri":"/sensors/temperature"
       },
       "humidity":{
         "pushDataToServer":1,
